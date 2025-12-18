@@ -33,3 +33,7 @@ Install dependencies:
 
 ```bash
 pip install requests beautifulsoup4
+
+
+Run with `python scraper.py`
+
