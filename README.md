@@ -1,4 +1,3 @@
-# Python_for_CyberSecurity_5
 # Books to Scrape — Web Scraper (Python)
 
 A simple Python web scraping script that retrieves book listings from **https://books.toscrape.com/**, extracts **book titles and absolute URLs**, and parses the page of a **specific book** to collect detailed information.
